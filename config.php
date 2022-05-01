@@ -1,12 +1,12 @@
 <?php
 /** O nome do banco de dados*/
-define('DB_NAME', 'db_crudProdutos');
+define('DB_NAME', 'db_name');
 /** Usuário do banco de dados MySQL */
-define('DB_USER', '4008346_flares');
+define('DB_USER', 'Username');
 /** Senha do banco de dados MySQL */
-define('DB_PASSWORD', 'mundocaido123');
+define('DB_PASSWORD', 'Password');
 /** nome do host do MySQL */
-define('DB_HOST', '	fdb33.awardspace.net');
+define('DB_HOST', '');
 /** caminho absoluto para a pasta do sistema **/
 if ( !defined('ABSPATH') )
 	define('ABSPATH', dirname(__FILE__) . '/');
